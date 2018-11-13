@@ -1,7 +1,7 @@
 # Addison's Emporium of Curiosities
 
 This webpage was made as a project for the General Assembly Web Developement Immersive.
-Taxidermy item are not for sale. No animals were harmed during the making of this site.
+Taxidermy items are not for sale. No animals were harmed during the making of this site.
 
 ## Authors
 
